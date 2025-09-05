@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <article>
+
+        <a href=""><img src="" alt="Bethel University"></a>
+
+        </article>
+        
+        <article>
+        <nav>
+        <a href="">MyBethel</a>
+        <a href="">Offices</a>
+        <a href="">News</a>
+        <a href="">Events</a>
+        <a href="">Blogs</a>
+        </nav>
+        </article>
+
+        <article>
+            <a href="">Apply</a>
+            <a href="">Visit</a>
+            <a href="">Give</a>
+            <button>Search</button>
+        </article>
+
+
+        <article>
+            <a href="">About</a>
+            <a href="">Admission & Aid</a>
+            <a href="">Offices</a>`
+            <a href="">Academics</a>
+            <a href="">Student Life</a>
+            <a href="">Athletics</a>
+            <a href="">Faith</a>
+        </article>
+        <body>
+        <section>
+            <h1>Anatomic of a Webpage<h1>
+        </section>
+        <section>
+            <nav>
+                <a href="">Office of Marketing and Communications</a>
+                <a href="">Resources</a>
+                <a href="">Web Authoring</a>
+                <a href="">Web Content</a>
+            </nav>
+        </section>
+           <section>
+           <ul>
+            <a href="">Home</a>
+            <li><a href="">Services</a></li>
+            <li><a href="">Resources</a></li>
+            <li><a href="">Contact Us</a></li>
+            <a href="">Student Employment Opportunities</a>
+           </ul>
+           </section>
+
+           <article>
+      <section>
+    <ol>
+        <li>
+            <h3>Page Title</h3>
+            <h5>If we’ve done our job well, the page title should tell visitors exactly what they’ll find on the webpage.</h5>
+        <ul>
+                <li>Keep it short Use clear language</li>
+                <li>Make the first two words count</li>
+                <li>Avoid internal jargon or acronyms</li>
+        </ul>
+        </li>
+        <br>
+        <li>
+            <h3>ID</h3>
+            <h5>The ID is a label assigned to the webpage that will appear at the end of the url.</h5>
+        <ul>
+            <li>Use hyphens between words.</li>
+            <li>Never use underscores or other characters.</li>
+            <li>No capital letters.</li>
+            <li>Use words that make sense.</li>
+            <li>In almost every case, your page ID should use words found in your page title.</li>
+            <li>Don't use obscure acronyms or abbreviations.    </li>
+        </ul>
+        </li>
+        <br>
+         <li>
+            <h3>Description</h3>
+            <h5>The description is a one-sentence summary of your page. It’s important to use key words and phrases that you think visitors might be using as search terms.</h5>
+            <h5>Where your description might show up:</h5>
+        <ul>
+            <li>Google search results page</li>
+            <li>Facebook, comments threads, or any other website where someone might post a link to your page</li>
+        </ul>
+        </li>
+        <br>
+        <li>
+            <h3>Body</h3>
+            <h5>The body is the bulk of your webpage content. It’s the information you’re providing to help visitors complete their tasks.</h5>
+        <ul>
+            <li>Put your information in priority order with the most important information first.</li>
+            <li>Use short words, sentences, and paragraphs.</li>
+            <li>Think about your user first. What is the information that they want to know?</li>
+            <li>Are you using language that your users understand?</li>
+            <li>Never use all caps unless it's a predefined style you cannot control. Use bold instead if you're wanting to convey emphasis.</li>
+
+        </ul>
+        </li>
+        <br>
+        <li>
+            <h3>Headings</h3>
+            <h5>Headings help users scan and find information quickly so they can assess if they're in the right place.</h5>
+        <ul>
+            <li>Accurately describe the information in the section.</li>
+            <li>Be clear and concrete.</li>
+            <li>Use key terms or phrases that are relevant for users.</li>
+            <li>Use powerful and active words.</li>
+            <h5>When formatting your headings, use H2 for main headings and H3 for subheadings. Re-evaluate your content if you're needing H4 because your page can get messy in a hurry.</h5>
+        </ul>
+        </li>
+        <br>
+        <li>    
+          <h3>Lists</h3>
+            <h5>A list is a helpful tool for breaking down huge paragraphs or providing step-by-step instructions.</h5>
+        <ul>
+            <li>Start with a capital letter.</li>
+            <li>Place a period at the end of complete sentences.</li>
+            <li>Use parallel language for list items (all fragments, all complete sentences, all questions, etc.).</li>
+            <li>Use numbers if you’re outlining a process or concrete steps that a visitor needs to take.</li>
+            <li>Visitors usually only see the first 2 words for each list item, so make those first 2 words meaningful.</li>
+
+        </ul>
+        </li>
+        <br>
+        <li>    
+          <h3>Bold, Italics, and Underline</h3>
+            <h5>On the web, bold, italics, and underline each have a unique purpose.</h5>
+            <h4>Bold</h4>
+            <h5>Use bold for highlighting important info, such as an application deadline or fee. You can also use bold for key introductory phrases of bulleted lists.
+Words of advice: if bold is overused, it’s no longer helpful. When too much is emphasized nothing stands out.</h5>
+            <h4>Italic</h4>
+            <h5>Use italics according to the Bethel Style Guide:</h5>
+        <ul>
+            <li>Book titles</li>
+            <li>Movie titles</li>
+            <li>Titles of newspapers or publications</li>
+            <li>Other items as noted in the style guide</li>
+            <h5>Italics can also be used to consistently format a repeated piece of minor information.</h5>
+            <h5>Examples:</h5>
+            <li>Room locations on schedule of events for a conference</li>
+            <li>Job titles on a staff list</li>
+            <h4>Underline</h4>
+            <h5>Never underline text on the web. Visitors will mistake underlined text for a link. This leads to confusion and reduces the impact of what you were trying to highlight. Use bold for emphasis instead.</h5>
+        </ul>
+        </li>
+        <br>
+        <li>
+            <h3>Links</h3>
+            <h5>Hyperlink meaningful phrases rather than single words or words that lack context.</h5>
+            <ul>
+                <li>Phrases are easier to spot.</li>
+                <li>Meaningful words help search engines scan and pick up useful information.</li>
+                <li>Avoid using "here" and "click here."</li>
+                <h5>Alert visitors when links will lead them to a document instead of a webpage by adding the appropriate tag at the end of the link:</h5>
+                <li>Bethel Undergraduate Catalog (pdf)</li>
+                <li>Bethel Style Guide (doc)</li>
+                <li>Bethel Expense Report (xls)</li>
+            </ul>
+        </li>
+        <br>
+        <li>
+            <h3>Call to Action</h3>
+        </li>
+        <h5>Nearly all webpages should provide visitors with a call to action. What do we want them to do with this information? What task have they come to perform?</h5>
+        <h5>It’s helpful to always give visitors a place to go from each webpage that’s related to the task at hand.</h5>
+        </ol>
+        </section>
+        </section>
+        <section>
+            <img src="" alt="LOGO">
+            <a href="">Open a Job</a>
+            <h4>Great work starts with great input! Get started by opening a job with us.</h4>
+            <button>Open a Job</button>
+        </section>
+
+
+
+        <section style="display: flex;flex-direction:column;">
+            <section>
+                <h1>Bethel University</h1>
+                <h3>3900 Bethel Drive
+                St. Paul, MN 55112</h3>
+                <h3><a href="">Maps & Direction</a></h3>
+                <h3>651.638.6400</h3>
+                <nav>
+                    <img src="" alt="FB">
+                    <img src="" alt="X">
+                    <img src="" alt="IG">
+                    img
+                </nav>
+            </section>
+
+        </section>
+        </article>
+
+
+           
+
+
+        </body>
+    </header>
+
+
+
+
+
+
+</body>
+</html>
