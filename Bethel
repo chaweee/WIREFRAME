@@ -186,10 +186,11 @@ Words of advice: if bold is overused, it’s no longer helpful. When too much is
             <h4>Great work starts with great input! Get started by opening a job with us.</h4>
             <button>Open a Job</button>
         </section>
-
-
-
-        <section style="display: flex;flex-direction:column;">
+        </article>
+        </body>
+    </header>
+    <footer>
+        <section> 
             <section>
                 <h1>Bethel University</h1>
                 <h3>3900 Bethel Drive
@@ -200,20 +201,44 @@ Words of advice: if bold is overused, it’s no longer helpful. When too much is
                     <img src="" alt="FB">
                     <img src="" alt="X">
                     <img src="" alt="IG">
-                    img
+                    <img src="" alt="In">
+                    <img src="" alt="Youtube">
+                    <img src="" alt="Vimeo">
+                    <img src="" alt="Tiktok">
                 </nav>
+                </section>
+                <section>
+                 <ul>
+                    <h1>Information For</h1>
+                    <li><a href="">Prospective Students</a></li>
+                    <li><a href="">Current Students</a></li>
+                    <li><a href="">Alumni</a></li>
+                    <li><a href="">Parents & Families</a></li>
+                    <li><a href="">Faculty & Staff</a></li>
+                    <li><a href="">Churches</a></li>
+                    <li><a href="">Military</a></li>
+                </ul>
             </section>
-
+            <br>
+            <section>
+                <ul>
+                    <h1>Resources</h1>
+                    <li><a href="">Jobs at Bethel</a></li>
+                    <li><a href="">Calendar</a></li>
+                    <li><a href="">Library</a></li>
+                    <li><a href="">Questions & Comments</a></li>
+                    <li><a href="">Title IX Concerns</a></li>
+                    <li><a href="">Course Catalogs</a></li>
+                    <button>Support Bethel</button>
+                </ul>
+            </section>
+            <br>
+            <section>
+                <h4>© 2025 Bethel University | CA Student Disclosures | Privacy Policy</h4>
+                <h5>Bethel Universitys Christ-centered mission includes a commitment to equal educational opportunity and equal employment opportunity. Bethel does not unlawfully discriminate on the basis of race, color, creed, national origin, sex, marital status, disability, status with regard to public assistance, familial status, or age in its admissions, educational programs, or employment practices.</h5>
+            </section>
         </section>
-        </article>
-
-
-           
-
-
-        </body>
-    </header>
-
+    </footer>
 
 
 
